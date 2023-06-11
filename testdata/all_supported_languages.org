@@ -1,4 +1,3 @@
-
 ar: وهذا هو نص قصير مكتوب أغراض الاختبار وترجمتها إلى عدة لغات باستخدام جوجل ترجمة
 
 cs: Jedná se o krátký text psaný pro účely testování a přeloženy do několika jazyků pomocí Překladače Google.
@@ -36,3 +35,5 @@ sl: To je kratko besedilo, napisano za testiranje in prevedena v več jezikov, k
 sv: Detta är en kort text skriven för teständamål och översatt till flera språk med Google Translate.
 
 vi: Đây là một văn bản ngắn được viết cho mục đích thử nghiệm và được dịch sang một số ngôn ngữ bằng Google Dịch.
+
+ko: 테스트 목적으로 작성된 짧은 텍스트이며 Google 번역을 사용하여 여러 언어로 번역되었습니다.
